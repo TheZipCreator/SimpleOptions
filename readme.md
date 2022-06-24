@@ -2,7 +2,7 @@
 
 A simple args[] parser for D
 
-# Usage:
+# Usage
 
 In your main() function, create a SimpleOptions object with the following arguments:
 
