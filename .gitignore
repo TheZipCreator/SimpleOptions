@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/simpleoptions
+simpleoptions.so
+simpleoptions.dylib
+simpleoptions.dll
+simpleoptions.a
+simpleoptions.lib
+simpleoptions-test-*
+*.exe
+*.o
+*.obj
+*.lst

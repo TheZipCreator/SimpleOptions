@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Zip"
+	],
+	"copyright": "Copyright © 2022, Zip",
+	"description": "A simple library to extract options from a command args[] array",
+	"license": "GNU General Public License v3",
+	"name": "simpleoptions"
+}
