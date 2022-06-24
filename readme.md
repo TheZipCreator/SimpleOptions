@@ -8,7 +8,7 @@ First import with
 
 `import zip.simpleoptions;`
 
-Then, inn your main() function, create a SimpleOptions object with the following arguments:
+Then, in your main() function, create a SimpleOptions object with the following arguments:
 
 `new SimpleOptions(args, inputs, flags)`
 
