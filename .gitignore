@@ -13,3 +13,4 @@ simpleoptions-test-*
 *.o
 *.obj
 *.lst
+*.pdb
