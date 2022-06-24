@@ -1,6 +1,6 @@
 # SimpleOptions
 
-A simple args[] parser for D
+A simple args[] parser for D, for when you just want to start working on your project and don't want to deal with parsing commandline arguments.
 
 # Usage
 
